@@ -22,12 +22,11 @@ Receiver specifications:
 |----------------------------------|--------------------------------|
 | Operating bit rate               | 2.5 Gb/s                       |
 | Bandwidth                        | 1.65 × bit rate                |
-| Thermal noise spectral density    | X.Y × 10⁻²² A²/Hz              |
+| Thermal noise spectral density    | 7.8 × 10⁻²² A²/Hz              |
 | Desired Q factor                 | 6                              |
 | PIN photodiode responsivity      | 1 A/W                          |
 
-> **Note:** X and Y are the last two digits of your student ID.  
-> Example: If ID ends with **43**, then ST = 4.3 × 10⁻²² A²/Hz.  
+
 
 Using the formulas above, calculate the receiver sensitivity.
 
@@ -58,6 +57,9 @@ Steps:
 2. Set attenuator to **20 dB**.  
 3. Run the simulation.  
 4. Adjust attenuator until **Q factor = 6.00 ± 0.05**.  
+<img width="1426" height="651" alt="image" src="https://github.com/user-attachments/assets/058d961f-391e-4919-a0fd-a351e4cf76aa" />
+<img width="1216" height="1600" alt="image" src="https://github.com/user-attachments/assets/4f67f444-1151-4452-9efc-67b6e1e117e4" />
+ 
 
 ---
 
