@@ -57,19 +57,12 @@ Steps:
 2. Set attenuator to **20 dB**.  
 3. Run the simulation.  
 4. Adjust attenuator until **Q factor = 6.00 ± 0.05**.  
-<img width="1426" height="651" alt="image" src="https://github.com/user-attachments/assets/058d961f-391e-4919-a0fd-a351e4cf76aa" />
-<img width="1216" height="1600" alt="image" src="https://github.com/user-attachments/assets/4f67f444-1151-4452-9efc-67b6e1e117e4" />
- 
+
 
 ---
 
 ## Report
-Your report should include:
-- Pre-lab calculations (attach handwritten work if applicable).  
-- Screenshots or displays of simulation results:  
-  - Power readings  
-  - BER analyzer output  
-  - Eye diagram  
-- Discussion of differences between analytical and simulation results.  
-
+<img width="1426" height="651" alt="image" src="https://github.com/user-attachments/assets/058d961f-391e-4919-a0fd-a351e4cf76aa" />
+<img width="1216" height="1600" alt="image" src="https://github.com/user-attachments/assets/4f67f444-1151-4452-9efc-67b6e1e117e4" />
+ 
 ---
